@@ -8,4 +8,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://twitter.com/verklicktl">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
