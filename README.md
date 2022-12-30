@@ -24,5 +24,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry PI" **alt="Raspberry PI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" **alt="Apache" width="40" height="40"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerklicktTV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
