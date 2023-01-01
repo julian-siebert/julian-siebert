@@ -1,4 +1,4 @@
-<h1 align="center">Verklickt</h1>
+<a align="center">Verklickt</a>
 
 ---
 <div id="badges" align="center">
