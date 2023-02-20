@@ -1,4 +1,4 @@
-### Verklickt - 15yrs - 📍 Near Hannover
+### Verklickt aka Julian Siebert - 15yrs - 📍 Near Hannover
 
 ---
 <div id="badges" align="center">
