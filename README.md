@@ -24,3 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" **alt="Apache" width="40" height="40"/>
 </div>
+
+---
+### Stats
+
+![Github-Stats](https://github-readme-stats.vercel.app/api?username=verklicktl&show_icons=true&theme=radical)
