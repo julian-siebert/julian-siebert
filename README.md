@@ -28,4 +28,4 @@
 ---
 ### Stats
 
-![Github-Stats](https://github-readme-stats.vercel.app/api?username=verklicktl&show_icons=true&theme=radical)
+![Github-Stats](https://github-readme-stats.vercel.app/api?username=verklicktl&show_icons=true&theme=dracula)
