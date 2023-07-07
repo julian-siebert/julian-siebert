@@ -10,7 +10,7 @@
   </a>
 </div>
 
-## What I already worked with:
+## 💻 What I already worked with:
 
 #### Programming language and its tools
 ![Java](https://img.shields.io/badge/java-%23F80000.svg?style=for-the-badge)
