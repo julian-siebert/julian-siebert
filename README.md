@@ -20,8 +20,8 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 ![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)
 ![JNI](https://img.shields.io/badge/jni-%234B4B77.svg?style=for-the-badge)
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)](https://www.rust-lang.org/)
 ![LLVM](https://img.shields.io/badge/llvm-%23262D3A.svg?style=for-the-badge&logo=llvm&logoColor=white)
 
 #### Database/Message-broker
