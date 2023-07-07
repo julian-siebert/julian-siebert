@@ -1,3 +1,7 @@
+## 👋 About me
+
+I like the JVM
+
 ## 🚀 What I'm currently working on:
 
 ![Uroria Network](https://img.shields.io/badge/uroria%20network-%2360D1FF.svg?style=for-the-badge)
