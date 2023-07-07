@@ -1,7 +1,7 @@
 ## 🚀 What I'm currently working on:
 
-<img src="https://github.com/julian-siebert/julian-siebert/assets/90093249/b2da311e-8323-430d-9b1b-53885a10ae1d" alt="drawing" width="200"/>
-
+<img src="https://github.com/julian-siebert/julian-siebert/assets/90093249/b2da311e-8323-430d-9b1b-53885a10ae1d" alt="drawing" width="100"/>
+**Uroria**
 
 ## 💻 What I already worked with:
 
