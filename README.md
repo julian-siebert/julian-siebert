@@ -10,9 +10,9 @@
   </a>
 </div>
 
-## What I've had to suffer from:
+## What I already worked with:
 
-#### Programming language and its tools:
+#### Programming language and its tools
 ![Java](https://img.shields.io/badge/java-%23F80000.svg?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -23,7 +23,7 @@
 ![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)
 ![LLVM](https://img.shields.io/badge/llvm-%23262D3A.svg?style=for-the-badge&logo=llvm&logoColor=white)
 
-#### Database/Message-broker:
+#### Database/Message-broker
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23188FFF.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
 
