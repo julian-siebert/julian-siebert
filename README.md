@@ -10,7 +10,9 @@
   </a>
 </div>
 
-## 🛠️ What I've had to suffer from:
+## What I've had to suffer from:
+
+### Programming languages:
 ![Java](https://img.shields.io/badge/java-%23c39054.svg?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -21,6 +23,7 @@
 ![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)
 ![LLVM](https://img.shields.io/badge/llvm-%23262D3A.svg?style=for-the-badge&logo=llvm&logoColor=white)
 
+### Databases/Message-brokers:
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23188FFF.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
 
@@ -28,6 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SurrealDB](https://img.shields.io/badge/surrealdb-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
+
 
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
