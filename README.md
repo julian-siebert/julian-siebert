@@ -32,18 +32,20 @@
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SurrealDB](https://img.shields.io/badge/surrealdb-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
 
-
+### Proxies/Routers/Firewalls
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![HaProxy](https://img.shields.io/badge/haproxy-%232962FF.svg?style=for-the-badge)
 ![pfSense](https://img.shields.io/badge/pfsense-%23212121.svg?style=for-the-badge&logo=pfsense&logoColor=white)
 ![OPNSense](https://img.shields.io/badge/opnsense-%23D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
 
+### Hypervisors/OS:
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Linux containers](https://img.shields.io/badge/lxc-%23333333.svg?style=for-the-badge&logo=linuxcontainers&logoColor=white)
 ![Redhat](https://img.shields.io/badge/redhat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
+### IDEs:
 ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Jetbrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
