@@ -13,7 +13,7 @@
 ## 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23c39054.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-%23794d65.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%23c2cfda.svg?style=for-the-badge&logo=apachemaven&logoColor=gray)
+![Maven](https://img.shields.io/badge/maven-%23c2cfda.svg?style=for-the-badge&logo=apachemaven&logoColor=black)
 ![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge&logoColor=white)
 
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23cc6225.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
