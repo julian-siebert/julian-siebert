@@ -32,12 +32,13 @@
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SurrealDB](https://img.shields.io/badge/surrealdb-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
 
-#### Proxy/Router/Firewall
+#### Proxy/Router/Firewall/DNS
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![HaProxy](https://img.shields.io/badge/haproxy-%232962FF.svg?style=for-the-badge)
 ![pfSense](https://img.shields.io/badge/pfsense-%23212121.svg?style=for-the-badge&logo=pfsense&logoColor=white)
 ![OPNSense](https://img.shields.io/badge/opnsense-%23D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 #### Hypervisor/OS
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
