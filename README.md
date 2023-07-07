@@ -10,7 +10,7 @@
   </a>
 </div>
 
-## 🛠️ Languages, Tools and Operating-Systems I already worked with:
+## 🛠️ What I already had to suffer from:
 ![Java](https://img.shields.io/badge/java-%23c39054.svg?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
