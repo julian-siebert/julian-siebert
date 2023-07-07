@@ -3,7 +3,7 @@
 |<img src="" alt="drawing" width="100"/>| Uroria |
 |----------------|------|
 
-![Uroria](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fjulian-siebert%2Fjulian-siebert%2Fassets%2F90093249%2Fb2da311e-8323-430d-9b1b-53885a10ae1d&logoColor=white)
+![Uroria](https://img.shields.io/badge/uroria-%23C71A36.svg?style=for-the-badge)
 
 ## 💻 What I already worked with:
 
