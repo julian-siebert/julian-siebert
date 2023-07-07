@@ -11,10 +11,12 @@
 </div>
 
 ## 🛠️ Languages and Tools:
-![Java](https://img.shields.io/badge/java-%23c39054.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23c39054.svg?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23188FFF.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
