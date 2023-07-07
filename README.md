@@ -1,8 +1,5 @@
 ## 🚀 What I'm currently working on:
 
-|<img src="" alt="drawing" width="100"/>| Uroria |
-|----------------|------|
-
 ![Uroria](https://img.shields.io/badge/uroria-%23C71A36.svg?style=for-the-badge)
 
 ## 💻 What I already worked with:
