@@ -46,3 +46,6 @@
 ## 📊 Github stats:
 
 ![Github-Stats](https://github-readme-stats.vercel.app/api?username=julian-siebert&show_icons=true&theme=dracula)
+
+![Followers](https://img.shields.io/github/followers/julian-siebert?style=for-the-badge)
+
