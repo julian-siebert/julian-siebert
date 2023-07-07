@@ -4,9 +4,11 @@ I'm a 15 year old student from Germany and like programming in Java similar lang
 
 In my programms I'm trying to keep focus on performance and stability.
 
+
+
 ## 🚀 What I'm currently working on:
 
-![Uroria Network](https://img.shields.io/badge/uroria%20network-%2360D1FF.svg?style=for-the-badge)
+[![Uroria Network](https://img.shields.io/badge/uroria%20network-%2360D1FF.svg?style=for-the-badge)](https://github.com/uroria)
 ![Sirlinus](https://img.shields.io/badge/sirlinus.de-%23FFFFFF.svg?style=for-the-badge)
 
 ## 💻 What I already worked with:
