@@ -58,7 +58,7 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 
 ## 📊 Github stats:
 
-<img src="![drawing.jpg](https://github-readme-stats.vercel.app/api?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)" alt="drawing" width="400"/>
-<img src="![drawing.jpg](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)" alt="drawing" width="400"/>
+<iframe src="![drawing.jpg](https://github-readme-stats.vercel.app/api?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)" width="400"/>
+<iframe src="![drawing.jpg](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)" width="400"/>
 
 
