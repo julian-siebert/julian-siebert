@@ -12,8 +12,8 @@
 
 ## 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-%232589cc.svg?style=for-the-badge&logo=java&logoColor=gray)
-![Maven](https://img.shields.io/badge/maven-%23cc6225.svg?style=for-the-badge&logo=java&logoColor=gray)
+![Gradle](https://img.shields.io/badge/gradle-%232589cc.svg?style=for-the-badge&logo=gradle&logoColor=gray)
+![Maven](https://img.shields.io/badge/maven-%23cc6225.svg?style=for-the-badge&logo=maven&logoColor=gray)
 
 
 ---
