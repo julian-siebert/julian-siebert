@@ -4,7 +4,7 @@ I'm a 15 year old student from Germany and like programming in Java similar lang
 
 In my programms I'm trying to keep focus on performance and stability.
 
-
+If you have any questions you can contact me on [Discord](https://discordapp.com/users/652574214729236490).
 
 ## 🚀 What I'm currently working on:
 
