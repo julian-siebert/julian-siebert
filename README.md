@@ -32,7 +32,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![HaProxy](https://img.shields.io/badge/haproxy-%232962FF.svg?style=for-the-badge)
 
-![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=gray)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=black)
 
 ---
 ### Stats
