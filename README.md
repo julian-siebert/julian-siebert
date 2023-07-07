@@ -17,6 +17,7 @@
 ![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)
 
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23188FFF.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
