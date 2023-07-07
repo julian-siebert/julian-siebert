@@ -14,19 +14,19 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 ## 💻 What I already worked with:
 
 #### Programming language and its tools
-![Java](https://img.shields.io/badge/java-%23F80000.svg?style=for-the-badge)
-![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)
-![JNI](https://img.shields.io/badge/jni-%234B4B77.svg?style=for-the-badge)
+[![Java](https://img.shields.io/badge/java-%23F80000.svg?style=for-the-badge)](https://www.java.com/)
+[![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+[![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)](https://www.graalvm.org/)
+[![JNI](https://img.shields.io/badge/jni-%234B4B77.svg?style=for-the-badge)](https://de.wikipedia.org/wiki/Java_Native_Interface)
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)](https://www.rust-lang.org/)
-![LLVM](https://img.shields.io/badge/llvm-%23262D3A.svg?style=for-the-badge&logo=llvm&logoColor=white)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)](https://www.rust-lang.org/)
+[![LLVM](https://img.shields.io/badge/llvm-%23262D3A.svg?style=for-the-badge&logo=llvm&logoColor=white)](https://llvm.org/)
 
 #### Database/Message-broker
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23188FFF.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
+[![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23188FFF.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)](https://pulsar.apache.org/)
 
 ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
