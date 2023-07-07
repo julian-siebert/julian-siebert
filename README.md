@@ -16,7 +16,7 @@
 ![Maven](https://img.shields.io/badge/maven-%23cc6225.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23cc6225.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23cc6225.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
+![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%2300a6ff.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
 
 ![MariaDB](https://img.shields.io/badge/mariadb-%23334dab.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
