@@ -10,7 +10,7 @@
   </a>
 </div>
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages, Tools and Operating-Systems I already worked with:
 ![Java](https://img.shields.io/badge/java-%23c39054.svg?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -34,6 +34,7 @@
 
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
 ---
 ### Stats
