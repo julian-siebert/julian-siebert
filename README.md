@@ -40,7 +40,7 @@
 ![Redhat](https://img.shields.io/badge/redhat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
-![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=gray)
+![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Jetbrains](https://img.shields.io/badge/jetbrains%20studio-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ---
