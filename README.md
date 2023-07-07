@@ -1,14 +1,4 @@
-### Julian Siebert - 15yrs
-
----
-<div id="badges" align="center">
-  <a href="https://discordapp.com/users/652574214729236490">
-    <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com/verklicktl">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+## 🚀 What I'm currently working on:
 
 ## 💻 What I already worked with:
 
