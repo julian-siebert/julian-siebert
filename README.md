@@ -57,11 +57,7 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 [![Gitlab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 
 ## 📊 Github stats:
-<!--
-<iframe src="![drawing.jpg]()" width="400"/>
-<iframe src="![drawing.jpg]()" width="400"/>
--->
-[![Github|100](https://github-readme-stats.vercel.app/api?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/julian-siebert/)
-[![Github|100](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)](https://github.com/julian-siebert/)
+[![Github](https://github-readme-stats.vercel.app/api?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/julian-siebert/)
+[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)](https://github.com/julian-siebert/)
 
 
