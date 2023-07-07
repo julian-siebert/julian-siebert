@@ -36,6 +36,7 @@
 ![OPNSense](https://img.shields.io/badge/opnsense-%23D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
 
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![Linux containers](https://img.shields.io/badge/lxc-%23333333.svg?style=for-the-badge&logo=linuxcontainers&logoColor=white)
 ![Redhat](https://img.shields.io/badge/redhat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
