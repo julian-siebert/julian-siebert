@@ -9,7 +9,7 @@ In my programms I'm trying to keep focus on performance and stability.
 ## 🚀 What I'm currently working on:
 
 [![Uroria Network](https://img.shields.io/badge/uroria%20network-%2360D1FF.svg?style=for-the-badge)](https://github.com/Uroria?view_as=public)
-[![Sirlinus](https://img.shields.io/badge/sirlinus.de-%23FFFFFF.svg?style=for-the-badge)](https://twitch.tv/sirlinus)
+[![Sirlinus](https://img.shields.io/badge/sirlinus.de-%23FFFFFF.svg?style=for-the-badge)](https://twitch.tv/sirlinustv)
 
 ## 💻 What I already worked with:
 
