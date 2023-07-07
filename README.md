@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/java-%23c39054.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge&logoColor=white)
+![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)
 
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%23188FFF.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
@@ -24,6 +24,7 @@
 
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![HaProxy](https://img.shields.io/badge/haproxy-%232962FF.svg?style=for-the-badge)
 
 ---
 ### Stats
