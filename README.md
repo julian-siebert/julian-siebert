@@ -1,7 +1,9 @@
 ## 🚀 What I'm currently working on:
 
-|<img src="https://github.com/julian-siebert/julian-siebert/assets/90093249/b2da311e-8323-430d-9b1b-53885a10ae1d" alt="drawing" width="100"/>| Uroria |
+|<img src="" alt="drawing" width="100"/>| Uroria |
 |----------------|------|
+
+![Uroria](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=https://github.com/julian-siebert/julian-siebert/assets/90093249/b2da311e-8323-430d-9b1b-53885a10ae1d&logoColor=white)
 
 ## 💻 What I already worked with:
 
