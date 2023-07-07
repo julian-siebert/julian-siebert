@@ -1,6 +1,7 @@
 ## 🚀 What I'm currently working on:
 
-![Uroria](https://img.shields.io/badge/uroria-%2360D1FF.svg?style=for-the-badge)
+![Uroria Network](https://img.shields.io/badge/uroria%20-%2360D1FF.svg?style=for-the-badge)
+![Sirlinus](https://img.shields.io/badge/sirlinus.de-%23FFFFFF.svg?style=for-the-badge)
 
 ## 💻 What I already worked with:
 
