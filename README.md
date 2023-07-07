@@ -49,7 +49,6 @@
 ![Jetbrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 
----
-### Stats
+## Github stats:
 
 ![Github-Stats](https://github-readme-stats.vercel.app/api?username=julian-siebert&show_icons=true&theme=dracula)
