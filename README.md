@@ -27,7 +27,7 @@
 ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SurrealDB](https://img.shields.io/badge/surrealdb-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=gray)
+![SurrealDB](https://img.shields.io/badge/surrealdb-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=black)
 
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
