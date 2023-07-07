@@ -19,7 +19,10 @@
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23794d65.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%2360a8d8.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
 
-![MariaDB](https://img.shields.io/badge/mariadb-%23334dab.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-%232e69ba.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23794d65.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Pulsar](https://img.shields.io/badge/apache%20pulsar-%2360a8d8.svg?style=for-the-badge&logo=apachepulsar&logoColor=white)
 
 ---
 ### Stats
