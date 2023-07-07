@@ -1,6 +1,6 @@
 ## 👋 About me
 
-I'm a 15 year old student from Germany and like programming in Java similar languages.
+I'm a 15 year old student from Germany Lower Saxony and like programming in Java similar languages.
 
 In my programms I'm trying to keep focus on performance and stability.
 
