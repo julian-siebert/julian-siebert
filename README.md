@@ -1,6 +1,6 @@
 ## 🚀 What I'm currently working on:
 
-![Uroria](https://img.shields.io/badge/uroria-%23C71A36.svg?style=for-the-badge)
+![Uroria](https://img.shields.io/badge/uroria-%2360D1FF.svg?style=for-the-badge)
 
 ## 💻 What I already worked with:
 
