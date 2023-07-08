@@ -19,6 +19,7 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 [![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)](https://www.graalvm.org/)
 [![JNI](https://img.shields.io/badge/jni-%234B4B77.svg?style=for-the-badge)](https://de.wikipedia.org/wiki/Java_Native_Interface)
+[![Guava](https://img.shields.io/badge/guava-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://de.wikipedia.org/wiki/Java_Native_Interface)
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)](https://www.rust-lang.org/)
