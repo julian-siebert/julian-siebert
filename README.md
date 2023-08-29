@@ -58,7 +58,8 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 [![Gitlab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 
 ## 🤮 What I don't enjoy working with:
-
+kotlin
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin)](https://www.java.com/)
 
 
 ## 📊 Github stats:
