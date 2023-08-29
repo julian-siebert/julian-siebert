@@ -59,6 +59,7 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 
 ## 🤮 What I don't enjoy working with:
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Groovy](https://img.shields.io/badge/groovy-%234298B8.svg?style=for-the-badge&logo=apachegroovy&logoColor=white)](https://groovy.apache.org/)
 
 
 ## 📊 Github stats:
