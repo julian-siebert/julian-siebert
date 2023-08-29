@@ -11,7 +11,7 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 [![Uroria Network](https://img.shields.io/badge/uroria%20network-%2360D1FF.svg?style=for-the-badge)](https://github.com/Uroria?view_as=public)
 [![Java Wiki](https://img.shields.io/badge/Java%20Lexikon-%23F80000.svg?style=for-the-badge)](https://wiki.uroria.com/s/java)
 
-## 💻 What I already worked with:
+## 💻 What I enjoy working with:
 
 #### Programming language and its tools
 [![Java](https://img.shields.io/badge/java-%23F80000.svg?style=for-the-badge)](https://www.java.com/)
@@ -56,6 +56,10 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 [![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julian-siebert/)
 [![Gitlab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
+
+## 🤮 What I don't enjoy working with:
+
+
 
 ## 📊 Github stats:
 [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)](https://github.com/julian-siebert/)
