@@ -60,7 +60,7 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 ## 🤮 What I don't enjoy working with:
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Groovy](https://img.shields.io/badge/groovy-%234298B8.svg?style=for-the-badge&logo=apachegroovy&logoColor=white)](https://groovy.apache.org/)
-
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## 📊 Github stats:
 [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)](https://github.com/julian-siebert/)
