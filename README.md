@@ -9,6 +9,7 @@ If you have any questions you can contact me on [Discord](https://discordapp.com
 ## 🚀 What I'm currently working on:
 
 [![Uroria Network](https://img.shields.io/badge/uroria%20network-%2360D1FF.svg?style=for-the-badge)](https://github.com/Uroria?view_as=public)
+
 [![Java Wiki](https://img.shields.io/badge/Java%20Lexikon-%23F80000.svg?style=for-the-badge)](https://wiki.uroria.com/s/java)
 
 ## 💻 What I enjoy working with:
