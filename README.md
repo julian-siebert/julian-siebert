@@ -4,7 +4,7 @@ I'm a 16 year old student from Germany Lower Saxony and enjoy programming in Jav
 
 In my programms I'm trying to keep focus on performance and stability.
 
-If you have any questions you can contact me on [Discord](https://discordapp.com/users/652574214729236490).
+If you have any questions you can contact me via [Mail (dev@julian-siebert.de)](mailto://dev@julian-siebert.de).
 
 ## 🚀 What I'm currently working on:
 
