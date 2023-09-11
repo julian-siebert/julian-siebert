@@ -28,7 +28,7 @@ For any questions contact me via Mail ([dev@julian-siebert.de](mailto://dev@juli
 [![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)](https://www.rust-lang.org/)
 [![Tokio](https://img.shields.io/badge/tokio-%23963576.svg?style=for-the-badge)](https://tokio.rs/)
 
-## 🤖 Programms/Tools I'm familiar with:
+## 🤖 Other things I'm familiar with:
 
 ### Apache
 
