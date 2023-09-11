@@ -63,7 +63,10 @@ If you have any questions you can contact me via Mail ([dev@julian-siebert.de](m
 [![Groovy](https://img.shields.io/badge/groovy-%234298B8.svg?style=for-the-badge&logo=apachegroovy&logoColor=white)](https://groovy.apache.org/)
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## 📊 Github stats:
+## 📊 Stats stats:
+![Java-Intermediate-Certificate](https://www.sololearn.com/certificates/CC-DZUIWYAH)
+
+### Github:
 [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)](https://github.com/julian-siebert/)
 [![Github](https://github-readme-stats.vercel.app/api?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/julian-siebert/)
 
