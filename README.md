@@ -26,7 +26,7 @@ For any questions contact me via Mail ([dev@julian-siebert.de](mailto://dev@juli
 ### Rust
 
 [![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)](https://www.rust-lang.org/)
-[![Tokio](https://img.shields.io/badge/tokio-%238A9296.svg?style=for-the-badge)](https://tokio.rs/)
+[![Tokio](https://img.shields.io/badge/tokio-%23963576.svg?style=for-the-badge)](https://tokio.rs/)
 
 #### Database/Message-broker
 [![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
