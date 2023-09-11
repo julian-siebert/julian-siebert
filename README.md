@@ -4,7 +4,9 @@ I'm a 16 year old student from Germany Lower Saxony and enjoy programming in Jav
 
 In my programms I'm trying to keep focus on performance and stability.
 
-If you have any questions you can contact me via Mail ([dev@julian-siebert.de](mailto://dev@julian-siebert.de)).
+If you're unable to find any projects of me here, check out [my Zyonic Gitlab Account](https://gitlab.zyonicsoftware.com/verklickt).
+
+For any questions contact me via Mail ([dev@julian-siebert.de](mailto://dev@julian-siebert.de)).
 
 ## 🚀 What I'm currently working on:
 
