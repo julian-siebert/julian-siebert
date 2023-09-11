@@ -14,18 +14,19 @@ For any questions contact me via Mail ([dev@julian-siebert.de](mailto://dev@juli
 <br>
 [![Java Wiki](https://img.shields.io/badge/Java%20Lexikon-%23F80000.svg?style=for-the-badge)](https://wiki.uroria.com/s/java)
 
-## 💻 What I enjoy working with:
+## 💻 Programming languages ​​and their tools that I'm familiar with:
 
-#### Programming language and its tools
-[![Java](https://img.shields.io/badge/java-%23F80000.svg?style=for-the-badge)](https://www.java.com/)
+### Java
+
 [![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![GraalVM](https://img.shields.io/badge/graalvm-%232e69ba.svg?style=for-the-badge)](https://www.graalvm.org/)
 [![JNI](https://img.shields.io/badge/jni-%234B4B77.svg?style=for-the-badge)](https://de.wikipedia.org/wiki/Java_Native_Interface)
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+### Rust
+
 [![Cargo](https://img.shields.io/badge/cargo-%238A9296.svg?style=for-the-badge)](https://www.rust-lang.org/)
-[![LLVM](https://img.shields.io/badge/llvm-%23262D3A.svg?style=for-the-badge&logo=llvm&logoColor=white)](https://llvm.org/)
+[![Tokio](https://img.shields.io/badge/tokio-%238A9296.svg?style=for-the-badge)](https://tokio.rs/)
 
 #### Database/Message-broker
 [![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
