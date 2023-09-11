@@ -64,7 +64,7 @@ If you have any questions you can contact me via Mail ([dev@julian-siebert.de](m
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## 📊 Stats stats:
-![Java-Intermediate-Certificate](https://api2.sololearn.com/v2/certificates/CC-DZUIWYAH/image/jpg)
+<img src="https://api2.sololearn.com/v2/certificates/CC-DZUIWYAH/image/jpg" width="250" style="border-radius: 10px"/>
 
 ### Github:
 [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-siebert&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only&layout=donut)](https://github.com/julian-siebert/)
