@@ -12,7 +12,7 @@ For any questions contact me via Mail ([dev@julian-siebert.de](mailto://dev@juli
 
 [![Uroria Network](https://img.shields.io/badge/uroria%20network-%2360D1FF.svg?style=for-the-badge)](https://github.com/Uroria?view_as=public)
 <br>
-[![Java Wiki](https://img.shields.io/badge/Java%20Lexikon-%23F80000.svg?style=for-the-badge)](https://wiki.uroria.com/s/java)
+[![Java Wiki](https://img.shields.io/badge/Java%20Lexikon-%23F80000.svg?style=for-the-badge)](https://github.com/julian-siebert/Java-Lexikon)
 
 ## 💻 Programming languages ​​and their tools that I'm familiar with:
 
