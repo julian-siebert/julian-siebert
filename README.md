@@ -1,8 +1,4 @@
-## 👋 About me
-
-I'm a 16 year old student from Germany Lower Saxony and enjoy programming in Java similar languages most of the time.
-
-In my programms I'm trying to keep focus on performance and stability.
+## 👋 Information
 
 If you're unable to find any projects of me here, check out [my Zyonic Gitlab Account](https://gitlab.zyonicsoftware.com/julian-siebert).
 
