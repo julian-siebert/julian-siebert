@@ -23,11 +23,11 @@ Just mail me ([dev@julian-siebert.de](mailto://dev@julian-siebert.de)).
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=julian_siebert&hide_border=true&layout=compact&display_format=time&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=julian_siebert&custom_title=My%20week&hide_border=true&layout=compact&display_format=time&theme=dark"
     media="(prefers-color-scheme: dark)"
     />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=julian_siebert&hide_border=true&layout=compact&display_format=time"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=julian_siebert&custom_title=My%20week&hide_border=true&layout=compact&display_format=time"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
   <img/>
