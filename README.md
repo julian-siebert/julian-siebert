@@ -1,5 +1,5 @@
 # About me
-I'm a 16 year old German student and freelance developer.
+I'm a 16 year old German student and software developer.
 In my freetime I invent programming languages like [Crash](https://github.com/crash-lang) or
 help others with their projects.
 
