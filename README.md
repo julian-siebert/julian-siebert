@@ -11,14 +11,6 @@ Just mail me ([dev@julian-siebert.de](mailto://dev@julian-siebert.de)).
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/652574214729236490)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juliansiebert.jpg)
 
-
-# Projects
-
-| Project                                                     | Position                        |
-|-------------------------------------------------------------|---------------------------------|
-| [Uroria Network](https://github.com/uroria)                 | CTO _(since August 2022)_       |
-| [Crash Programming language](https://github.com/crash-lang) | Founder _(since December 2023)_ |
-
 # Activity
 
 <picture>
