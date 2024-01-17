@@ -16,7 +16,7 @@ Some projects of mine can be found on [Zyonic Gitlab](https://gitlab.zyonicsoftw
 
 # Contact & Links
 I will publish a personal page soon.
-So please just write a mail to [dev@julian-siebert.de](mailto://dev@julian-siebert.de).
+So please just mail me [dev@julian-siebert.de](mailto://dev@julian-siebert.de).
 
 # Activity
 
