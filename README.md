@@ -15,10 +15,8 @@ Feel free to try it out, when the compiler is finished for compiling some code.
 Some projects of mine can be found on [Zyonic Gitlab](https://gitlab.zyonicsoftware.com/julian-siebert).
 
 # Contact & Links
-Just mail me ([dev@julian-siebert.de](mailto://dev@julian-siebert.de)).
-
-[![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/652574214729236490)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juliansiebert.jpg)
+I will publish a personal page soon.
+So please just write a mail to [dev@julian-siebert.de](mailto://dev@julian-siebert.de).
 
 # Activity
 
