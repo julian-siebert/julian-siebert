@@ -20,6 +20,7 @@ So please just mail me [dev@julian-siebert.de](mailto://dev@julian-siebert.de).
 
 # Activity
 (Since December 2023)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=julian_siebert&custom_title=My%20screentime&hide_border=true&layout=compact&display_format=time&theme=dark"
