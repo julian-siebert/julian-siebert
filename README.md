@@ -6,6 +6,7 @@ backend part, of any software.
 
 Since I despise complicated things that could be more user-friendly, 
 I avoid coding in C/C++. Instead, I prefer Rust or any language that allows you to code what you really need without jeopardizing your sanity.
+But even they're not enough for me.
 That's why I've started creating my own programming language Crash.
 I initially began programming in Java, but there were a few aspects of the language that I absolutely detested. 
 Unfortunately, I couldn't find a similar alternative. Therefore, 
