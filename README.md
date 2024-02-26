@@ -4,15 +4,6 @@ In my freetime I invent programming languages like [Crash](https://github.com/cr
 help others with their projects. As you can see in my activity below, I prefer programming the
 backend part, of any software. 
 
-Since I despise complicated things that could be more user-friendly, 
-I avoid coding in C/C++. Instead, I prefer Rust or any language that allows you to code what you really need without jeopardizing your sanity.
-But even they're not enough for me.
-That's why I've started creating my own programming language Crash.
-I initially began programming in Java, but there were a few aspects of the language that I absolutely detested. 
-Unfortunately, I couldn't find a similar alternative. Therefore, 
-Crash aims to address everything I disliked about Java and incorporate all the aspects I love from other popular languages.
-Feel free to try it out, when the compiler is finished for compiling some code.
-
 Some projects of mine can be found on [Zyonic Gitlab](https://gitlab.zyonicsoftware.com/julian-siebert).
 
 # Contact & Links
