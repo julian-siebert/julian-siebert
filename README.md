@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust           1 hr 3 mins           ███████████████▒░░░░░░░░░   61.16 %
-Docker         32 mins               ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-YAML           3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-TOML           2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-shell script   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
