@@ -14,6 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 2 hrs 39 mins
+
 Rust           1 hr 48 mins          █████████████████░░░░░░░░   68.10 %
 TOML           24 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
 Assembly       19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
