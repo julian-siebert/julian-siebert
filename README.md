@@ -14,12 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 39 mins
+Total Time: 8 hrs 32 mins
 
-Rust           1 hr 48 mins          █████████████████░░░░░░░░   68.10 %
-TOML           24 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-Assembly       19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-shell script   7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Rust           5 hrs 46 mins         █████████████████░░░░░░░░   67.59 %
+TOML           1 hr 9 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Docker         34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Assembly       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+YAML           18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
