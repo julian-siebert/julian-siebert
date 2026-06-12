@@ -14,6 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 11 June 2025 - To: 11 June 2026
+
 Total Time: 8 hrs 32 mins
 
 Rust           5 hrs 46 mins         █████████████████░░░░░░░░   67.59 %
