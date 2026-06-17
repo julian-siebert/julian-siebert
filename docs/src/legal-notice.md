@@ -22,7 +22,8 @@ Despite careful review of content, I assume no liability for the content of exte
 
 ### This legal notice also applies to the following telemedia:
 
-- [books.julian-siebert.de](https://books.julian-siebert.de)
+- [julian-siebert.de](https://julian-siebert.de)
+- [www.julian-siebert.de](https://www.julian-siebert.de)
 - [pkgs.julian-siebert.de](https://pkgs.julian-siebert.de)
 - [cv.julian-siebert.de](https://cv.julian-siebert.de)
 - [GitHub](https://github.com/julian-siebert)
