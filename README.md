@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 16 June 2026
+From: 17 June 2025 - To: 17 June 2026
 
-Total Time: 11 hrs 9 mins
+Total Time: 11 hrs 39 mins
 
-Rust           7 hrs 23 mins         ████████████████▓░░░░░░░░   66.23 %
-TOML           1 hr 45 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-Docker         34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-YAML           31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Assembly       19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Rust           7 hrs 23 mins         ████████████████░░░░░░░░░   63.44 %
+TOML           1 hr 55 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+YAML           36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Docker         34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Markdown       27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
