@@ -1,3 +1,3 @@
 E-Mail: mail@julian-siebert.de
 
-Legal Notice: https://books.julian-siebert.de/books/legal-notice.html
+Legal Notice: https://julian-siebert.de/impressum/
